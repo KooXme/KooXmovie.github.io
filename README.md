@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to kooXMovie
 
 You can use the [editor on GitHub](https://github.com/KooXme/kooXMovie.github.io/edit/App-kooXMovie.github.io/README.md) to maintain and preview the content for your website in Markdown files.
 
